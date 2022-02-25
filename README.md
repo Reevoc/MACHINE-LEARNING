@@ -1,6 +1,8 @@
-### Machine-Learning
+# Machine-Learning
+###### (NB. all the material is under copyright of the University of Padua even the projects carried out by me so it is not possible to use them)
 Machine Learning Course held in university of Padua 21/22
 The repository contains all draft-slides, Homeworks and Laboratory done during the course.
+
 
 
 This is a detailed program of the course done by Professor [Vadin Fabio](https://www.dei.unipd.it/~vandinfa/):
